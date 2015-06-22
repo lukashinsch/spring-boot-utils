@@ -8,3 +8,5 @@ The idea for this project is to create a wrapper (maybe spring-boot-starter depe
 - spring-boot-actuator-logview
 - spring-boot-actuator-endpoint-list
 - spring-boot-groovy-config
+
+Project artifact should be POM only.
